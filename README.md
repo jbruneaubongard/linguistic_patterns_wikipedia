@@ -1,0 +1,1 @@
+# linguistic_patterns_wikipedia
