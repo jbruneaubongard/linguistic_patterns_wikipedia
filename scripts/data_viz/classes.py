@@ -3,7 +3,7 @@ import numpy as np
 import plotly.graph_objects as go
 from plotly.subplots import make_subplots
 from datetime import timedelta
-from scripts.data_viz.utils import get_color_range, get_button, timestamp_interval_to_string, dt64_to_timestamp
+from utils import get_color_range, get_button, timestamp_interval_to_string, dt64_to_timestamp
 
 
 class UttDataFrame(pd.DataFrame):
